@@ -1,0 +1,389 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "position": "会计",
+      "years_range": "0-1",
+      "salary_tier": "all",
+      "difficulty": 1,
+      "question": "请简述会计的基本职能，并结合日常工作举例说明。",
+      "analysis": "考察会计基础认知。答题思路：先答核算与监督两大基本职能，再用记账、编制报表、审核报销等日常场景佐证，体现理论与实践结合。"
+    },
+    {
+      "position": "会计",
+      "years_range": "0-1",
+      "salary_tier": "all",
+      "difficulty": 1,
+      "question": "什么是借贷记账法？如何理解“有借必有贷，借贷必相等”？",
+      "analysis": "考察记账原理。要点：资产类借增贷减、负债与所有者权益类借减贷增；每一笔业务都同时记入两个或以上账户，金额相等，保证试算平衡。"
+    },
+    {
+      "position": "会计",
+      "years_range": "1-3",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "月底结账发现银行对账单与企业账面余额不符，你会如何排查处理？",
+      "analysis": "考察对账与银行余额调节。思路：先区分未达账项与记账错误，逐笔核对，编制银行余额调节表；再定位差异并做账务调整，强调严谨与留痕。"
+    },
+    {
+      "position": "会计",
+      "years_range": "1-3",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "请解释增值税一般纳税人与小规模纳税人的主要区别。",
+      "analysis": "考察税务基础。要点：计税方式（一般计税 vs 简易征收）、税率与征收率、进项抵扣资格、发票管理等方面的差异，并结合适用场景说明。"
+    },
+    {
+      "position": "会计",
+      "years_range": "3-5",
+      "salary_tier": "all",
+      "difficulty": 3,
+      "question": "如果管理层要求你提前确认收入以达到业绩目标，你会如何处理？",
+      "analysis": "考察职业操守与合规意识。思路：说明收入确认的准则要求与提前确认的合规风险，委婉拒绝并给出合规的替代建议，体现原则性。"
+    },
+    {
+      "position": "会计",
+      "years_range": "3-5",
+      "salary_tier": "all",
+      "difficulty": 3,
+      "question": "请谈谈你对成本核算中“料、工、费”的理解，以及如何做成本控制。",
+      "analysis": "考察成本管理能力。要点：料（直接材料）、工（直接人工）、费（制造费用）的归集与分配；成本控制可从定额管理、差异分析、流程优化等角度展开。"
+    },
+    {
+      "position": "会计",
+      "years_range": "all",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "如何编制现金流量表？它与利润表、资产负债表有何关系？",
+      "analysis": "考察报表体系理解。思路：按经营、投资、筹资三类活动归集现金流入流出；说明三张报表分别反映盈利、财务状况与现金收付，互为补充。"
+    },
+    {
+      "position": "会计",
+      "years_range": "all",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "你使用过哪些财务软件或 ERP 系统？如何保证账务处理的准确性与效率？",
+      "analysis": "考察工具使用与流程意识。思路：列举用友/金蝶/SAP 等，说明借助科目设置、对账、复核与自动化凭证提升效率，并强调定期核对保证准确。"
+    },
+    {
+      "position": "HR",
+      "years_range": "0-1",
+      "salary_tier": "all",
+      "difficulty": 1,
+      "question": "请简述招聘的基本流程，以及每个环节的注意事项。",
+      "analysis": "考察招聘全流程认知。思路：需求确认 → 渠道发布 → 简历筛选 → 面试 → 录用与入职；注意需求澄清、JD 清晰、面试公平与候选人体验。"
+    },
+    {
+      "position": "HR",
+      "years_range": "0-1",
+      "salary_tier": "all",
+      "difficulty": 1,
+      "question": "如何筛选简历？你会重点关注哪些信息？",
+      "analysis": "考察简历筛选方法。要点：先看硬性条件（学历、经验年限、岗位匹配），再看稳定性与业绩描述，警惕空泛表述，注意快速筛选与公平性。"
+    },
+    {
+      "position": "HR",
+      "years_range": "1-3",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "员工提出离职，作为 HR 你会如何进行离职面谈？",
+      "analysis": "考察员工关系与沟通。思路：营造信任氛围，了解真实离职原因，评估是否挽留并给出对应方案；同时做好知识交接与离职手续，维护雇主品牌。"
+    },
+    {
+      "position": "HR",
+      "years_range": "1-3",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "请谈谈你对绩效管理中 KPI 与 OKR 的理解和区别。",
+      "analysis": "考察绩效工具理解。要点：KPI 是结果导向的量化指标，OKR 强调目标与关键结果、鼓励挑战与对齐；说明各自适用场景与落地注意事项。"
+    },
+    {
+      "position": "HR",
+      "years_range": "3-5",
+      "salary_tier": "all",
+      "difficulty": 3,
+      "question": "公司要建立培训体系，你会如何规划从 0 到 1？",
+      "analysis": "考察培训体系建设。思路：先做需求调研与能力盘点，再分层设计课程与内训师机制，建立实施、评估与迭代闭环，并与业务目标对齐。"
+    },
+    {
+      "position": "HR",
+      "years_range": "3-5",
+      "salary_tier": "all",
+      "difficulty": 3,
+      "question": "遇到劳动纠纷（如员工主张加班费），你会如何依法合规处理？",
+      "analysis": "考察劳动法与风险应对。要点：先核实考勤与合同约定，依据劳动法规评估诉求，友好协商并保留证据，必要时引入法务，避免激化矛盾。"
+    },
+    {
+      "position": "HR",
+      "years_range": "all",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "如何设计一份有吸引力的薪酬福利方案？",
+      "analysis": "考察薪酬设计能力。思路：结合市场调研与内部公平性，设计基本薪酬 + 绩效 + 福利的组合，兼顾激励性与成本可控，并持续优化。"
+    },
+    {
+      "position": "HR",
+      "years_range": "all",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "请分享一次你处理员工关系危机的经历。",
+      "analysis": "考察经验与应变。用 STAR 法：背景、冲突、采取的措施与结果，突出沟通、同理心与原则性，并总结反思。"
+    },
+    {
+      "position": "前台",
+      "years_range": "0-1",
+      "salary_tier": "all",
+      "difficulty": 1,
+      "question": "有陌生访客到访，你会如何接待和引导？",
+      "analysis": "考察接待规范。思路：微笑问候、登记信息、确认受访人、引导就座并通知对接人，体现热情与安全意识的平衡。"
+    },
+    {
+      "position": "前台",
+      "years_range": "0-1",
+      "salary_tier": "all",
+      "difficulty": 1,
+      "question": "电话响了但你在忙别的事，你会如何处理来电？",
+      "analysis": "考察多任务与职业礼仪。要点：尽量及时接听，若无法立即处理则礼貌说明稍后回电，记录信息并跟进，避免漏接与失礼。"
+    },
+    {
+      "position": "前台",
+      "years_range": "1-3",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "同时有多位访客和来电需要处理，你会如何安排优先级？",
+      "analysis": "考察多任务处理与优先级。思路：按紧急与重要程度排序，先处理紧急来电与重要访客，同时礼貌安抚其他人，必要时请求同事协助。"
+    },
+    {
+      "position": "前台",
+      "years_range": "1-3",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "重要客户情绪激动地投诉，你会如何安抚和处理？",
+      "analysis": "考察情绪处理与投诉应对。要点：先倾听共情、不打断，确认诉求，能解决的立即处理，不能解决的记录并升级，及时反馈进度。"
+    },
+    {
+      "position": "前台",
+      "years_range": "3-5",
+      "salary_tier": "all",
+      "difficulty": 3,
+      "question": "请谈谈如何规范前台的物资和会议室预约管理。",
+      "analysis": "考察行政规范能力。思路：建立台账与预约制度，明确使用规则与责任人，定期盘点与提醒，借助日历或系统提升效率，减少冲突。"
+    },
+    {
+      "position": "前台",
+      "years_range": "3-5",
+      "salary_tier": "all",
+      "difficulty": 3,
+      "question": "遇到疑似推销或安全可疑人员，你会如何处理？",
+      "analysis": "考察安全与应变。要点：礼貌拦截并核实身份，坚持公司来访制度，对可疑人员保持警惕，及时通知安保或相关负责人，保护公司安全。"
+    },
+    {
+      "position": "前台",
+      "years_range": "all",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "你如何理解前台岗位对公司的“门面”作用？",
+      "analysis": "考察岗位认知与职业素养。思路：前台是客户对公司的第一印象，需在形象、礼仪、沟通上体现专业与亲和，为品牌加分。"
+    },
+    {
+      "position": "前台",
+      "years_range": "all",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "请描述你在压力下保持专业形象的一次经历。",
+      "analysis": "考察抗压与情绪管理。用 STAR 法：说明压力场景、如何保持冷静专业、采取了什么行动、最终结果如何。"
+    },
+    {
+      "position": "销售",
+      "years_range": "0-1",
+      "salary_tier": "all",
+      "difficulty": 1,
+      "question": "请介绍一下你理解的销售流程，以及如何寻找潜在客户。",
+      "analysis": "考察销售基础。思路：客户画像 → 线索获取 → 需求挖掘 → 方案呈现 → 异议处理 → 促成 → 售后跟进；线索来源包括转介绍、网络、展会等。"
+    },
+    {
+      "position": "销售",
+      "years_range": "0-1",
+      "salary_tier": "all",
+      "difficulty": 1,
+      "question": "客户说“太贵了”，你会如何回应？",
+      "analysis": "考察异议处理。思路：先认同情绪，再澄清价值与差异化，量化收益，必要时提供灵活方案，避免直接降价损伤价值。"
+    },
+    {
+      "position": "销售",
+      "years_range": "1-3",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "如何做客户需求分析？请举例说明。",
+      "analysis": "考察需求挖掘能力。要点：通过提问了解客户痛点、目标与预算，区分显性与隐性需求，用 SPIN 等方法引导，再针对性匹配方案。"
+    },
+    {
+      "position": "销售",
+      "years_range": "1-3",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "你如何维护老客户并促成复购？",
+      "analysis": "考察客户维护与复购。思路：建立档案、定期回访、主动服务、关注使用反馈，在合适节点推荐交叉或升级产品，做长期关系而非一次买卖。"
+    },
+    {
+      "position": "销售",
+      "years_range": "3-5",
+      "salary_tier": "all",
+      "difficulty": 3,
+      "question": "如果连续三个月未完成业绩目标，你会如何分析和调整？",
+      "analysis": "考察复盘与自我管理。思路：从线索量、转化率、客单价、产品适配等维度拆解找根因，针对性改进话术、渠道或客户结构，并设定可执行计划。"
+    },
+    {
+      "position": "销售",
+      "years_range": "3-5",
+      "salary_tier": "all",
+      "difficulty": 3,
+      "question": "请谈谈大客户销售与中小客户销售策略的差异。",
+      "analysis": "考察分层销售策略。要点：大客户强调关系经营、多决策人、长周期与定制方案；中小客户侧重高效转化、标准化产品与规模化覆盖。"
+    },
+    {
+      "position": "销售",
+      "years_range": "all",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "客户质疑产品有缺陷，你会如何坦诚沟通并挽回信任？",
+      "analysis": "考察诚信与危机处理。思路：不回避、先道歉并核实问题，给出解决方案与时间表，事后复盘改进，用诚实换取长期信任。"
+    },
+    {
+      "position": "销售",
+      "years_range": "all",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "请分享一次你成功攻克困难客户签单的经历。",
+      "analysis": "考察实战经验与韧性。用 STAR 法：说明困难点、关键突破口、采取的策略与最终结果，突出坚持与方法论。"
+    },
+    {
+      "position": "技术开发",
+      "years_range": "0-1",
+      "salary_tier": "all",
+      "difficulty": 1,
+      "question": "请解释什么是 RESTful API，以及它的常见设计原则。",
+      "analysis": "考察 Web 基础。要点：以资源为中心、用 HTTP 方法表达操作、无状态、统一接口；说明 URL 设计、状态码使用与版本管理等原则。"
+    },
+    {
+      "position": "技术开发",
+      "years_range": "0-1",
+      "salary_tier": "all",
+      "difficulty": 1,
+      "question": "你如何理解数据库索引？什么时候该建、什么时候不该建？",
+      "analysis": "考察数据库基础。思路：索引加速查询但增加写开销；适合高频查询、区分度高的列，避免在频繁更新或小表上滥用索引。"
+    },
+    {
+      "position": "技术开发",
+      "years_range": "1-3",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "请谈谈你排查一个线上性能问题或 bug 的思路和步骤。",
+      "analysis": "考察问题排查能力。思路：复现 → 看日志与监控 → 定位瓶颈（CPU/内存/IO/网络/慢查询）→ 提出假设并验证 → 修复并回归，强调系统化。"
+    },
+    {
+      "position": "技术开发",
+      "years_range": "1-3",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "什么是事务的 ACID 特性？请举例说明隔离级别。",
+      "analysis": "考察事务理论。要点：原子性、一致性、隔离性、持久性；隔离级别如读未提交、读已提交、可重复读、串行化，说明各自解决与遗留的并发问题。"
+    },
+    {
+      "position": "技术开发",
+      "years_range": "3-5",
+      "salary_tier": "all",
+      "difficulty": 3,
+      "question": "请描述一次你主导的系统架构设计，以及你做了哪些取舍。",
+      "analysis": "考察架构能力。思路：说明业务背景、核心约束，选型与权衡（一致性 vs 可用性、性能 vs 成本），以及最终落地与效果，体现决策依据。"
+    },
+    {
+      "position": "技术开发",
+      "years_range": "3-5",
+      "salary_tier": "all",
+      "difficulty": 3,
+      "question": "如何设计一个高并发、可扩展的系统？谈谈你的思路。",
+      "analysis": "考察系统设计。思路：从读写分离、缓存、异步削峰、水平拆分、限流熔断、服务化等维度展开，并结合具体场景说明演进路径。"
+    },
+    {
+      "position": "技术开发",
+      "years_range": "all",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "你如何保证代码质量？谈谈你的代码评审和测试经验。",
+      "analysis": "考察工程素养。要点：单元测试、代码评审、静态检查、持续集成，强调可读性与可维护性，并举例说明评审中发现过的问题。"
+    },
+    {
+      "position": "技术开发",
+      "years_range": "all",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "如果产品需求频繁变更，你会如何与产品沟通并保证开发效率？",
+      "analysis": "考察沟通与工程方法。思路：梳理变更影响与成本，推动需求优先级与排期，通过小步迭代、灰度发布降低风险，保持透明沟通。"
+    },
+    {
+      "position": "运营",
+      "years_range": "0-1",
+      "salary_tier": "all",
+      "difficulty": 1,
+      "question": "请解释什么是用户运营，以及常见的用户分层方式。",
+      "analysis": "考察用户运营基础。思路：围绕拉新、促活、留存、转化开展工作；分层可基于 RFM、生命周期或行为标签，再差异化运营。"
+    },
+    {
+      "position": "运营",
+      "years_range": "0-1",
+      "salary_tier": "all",
+      "difficulty": 1,
+      "question": "如何写一篇有吸引力的公众号/社区文案？你的思路是？",
+      "analysis": "考察内容能力。要点：明确受众与目标，起一个抓眼球的标题，用场景切入、结构清晰、有行动引导，并注重排版与互动。"
+    },
+    {
+      "position": "运营",
+      "years_range": "1-3",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "如何策划一场线上活动？请说明从策划到复盘的关键步骤。",
+      "analysis": "考察活动策划能力。思路：定目标 → 定主题与玩法 → 资源与预算 → 预热推广 → 执行监控 → 数据复盘与迭代，突出闭环思维。"
+    },
+    {
+      "position": "运营",
+      "years_range": "1-3",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "你如何分析一个运营活动的 ROI？",
+      "analysis": "考察数据与成本意识。要点：明确投入（人力、预算、资源）与产出（新增、转化、营收），计算投入产出比，并区分短期与长期价值。"
+    },
+    {
+      "position": "运营",
+      "years_range": "3-5",
+      "salary_tier": "all",
+      "difficulty": 3,
+      "question": "请谈谈如何搭建用户增长体系（拉新、促活、留存）。",
+      "analysis": "考察增长体系思维。思路：建立 AARRR 或 RARRA 漏斗，结合渠道投放、内容与产品机制做拉新，用激励与触达做促活，用价值与习惯做留存。"
+    },
+    {
+      "position": "运营",
+      "years_range": "3-5",
+      "salary_tier": "all",
+      "difficulty": 3,
+      "question": "遇到舆情危机，你会如何制定应对策略？",
+      "analysis": "考察危机公关能力。思路：快速响应、统一口径、先了解事实再表态，坦诚沟通并给出补救措施，事后复盘完善机制，避免二次发酵。"
+    },
+    {
+      "position": "运营",
+      "years_range": "all",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "你常用哪些数据分析指标？如何用数据驱动运营决策？",
+      "analysis": "考察数据驱动能力。要点：DAU/MAU、留存率、转化率、GMV、ROI 等；通过拆解漏斗定位问题、A/B 测试验证假设，用数据支撑决策。"
+    },
+    {
+      "position": "运营",
+      "years_range": "all",
+      "salary_tier": "all",
+      "difficulty": 2,
+      "question": "请分享一次你通过运营手段显著提升某项指标的经历。",
+      "analysis": "考察实战经验。用 STAR 法：说明指标背景、采取的策略与动作、数据结果与可复用经验。"
+    }
+  ]
+}
